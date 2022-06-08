@@ -25,6 +25,7 @@ Para este projeto eu usei as seguintes tecnologias:
 - NodeJs
 - Typescript
 - Express
+- Postman
 - Mysql
 - Knex
 - Paradigma de orientação a objetos
