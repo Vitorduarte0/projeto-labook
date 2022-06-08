@@ -37,7 +37,7 @@ Para este projeto eu usei as seguintes tecnologias:
 
 ## 📃 Documentação
 
-[Documentação]((https://documenter.getpostman.com/view/19296508/UyxdM9uC)
+[Documentação](https://documenter.getpostman.com/view/19296508/UyxdM9uC)
 
 
 ### 👩‍💻👨‍ Projeto desenvolvido por:
